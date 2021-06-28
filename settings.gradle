@@ -1,0 +1,2 @@
+rootProject.name='mealsontime'
+include ':app'
